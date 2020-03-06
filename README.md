@@ -7,6 +7,6 @@
 
 ## Build
 
-```
+```bash
 bazel build //src:MixedObjcSwift
 ```
