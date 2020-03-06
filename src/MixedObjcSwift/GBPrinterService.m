@@ -13,7 +13,7 @@
 }
 
 - (void)printString:(nonnull NSString *)message {
-  [_printer print:newline];
+  [_printer print:message];
 }
 
 @end
